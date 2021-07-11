@@ -8,7 +8,9 @@ I am a self-taught full stack web developer with a degree in Economics and exper
 
 - 💬 Tools: 
 Front-end: JavaScript, React, Angular, TypeScript, HTML, CSS
+
 Back-end: NodeJS/ExpressJS, PostgreSQL, Jade/Pug
+
 Miscellaneous: Jest, Firebase, Heroku, Netlify, CLI, NPM, Git
 
 
