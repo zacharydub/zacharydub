@@ -6,7 +6,7 @@ I am a self-taught full stack web developer with a degree in Economics and exper
 
 📫 I'm currently working as a freelancer
 
-💬 Tools: 
+:wrench: Tools: 
 
 - Front-end: JavaScript, React, Angular, TypeScript, HTML, CSS
 
