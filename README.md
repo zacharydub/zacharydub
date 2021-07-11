@@ -2,11 +2,14 @@
 
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working as a volunteer integration tester for [MyTzedakah.com](mytzedakah.com)
+I am a self-taught full stack web developer with a degree in Economics and experience managing customer service and operations teams in hi-tech. I love to solve problems and learn new technologies.
 
-- 👯 I'm currently working as a freelancer on [FertiChat](fertichat.herokuapp.com)
+- 📫 I'm currently working as a freelancer
 
-- 💬 Ask me about JavaScript, React, Node/Express, PostgreSQL, HTML, CSS, 
+- 💬 Tools: 
+Front-end: JavaScript, React, Angular, TypeScript, HTML, CSS
+Back-end: NodeJS/ExpressJS, PostgreSQL, Jade/Pug
+Miscellaneous: Jest, Firebase, Heroku, Netlify, CLI, NPM, Git
 
 
 
