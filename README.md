@@ -4,14 +4,15 @@
 
 I am a self-taught full stack web developer with a degree in Economics and experience managing customer service and operations teams in hi-tech. I love to solve problems and learn new technologies.
 
-- 📫 I'm currently working as a freelancer
+📫 I'm currently working as a freelancer
 
-- 💬 Tools: 
-Front-end: JavaScript, React, Angular, TypeScript, HTML, CSS
+💬 Tools: 
 
-Back-end: NodeJS/ExpressJS, PostgreSQL, Jade/Pug
+- Front-end: JavaScript, React, Angular, TypeScript, HTML, CSS
 
-Miscellaneous: Jest, Firebase, Heroku, Netlify, CLI, NPM, Git
+- Back-end: NodeJS/ExpressJS, PostgreSQL, Jade/Pug
+
+- Miscellaneous: Jest, Firebase, Heroku, Netlify, CLI, NPM, Git
 
 
 
